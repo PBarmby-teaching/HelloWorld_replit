@@ -3,4 +3,4 @@ for i in range(0,10):
 print("all done")
 import numpy as np
 a = np.ones((5,5))
-print(a)
+print(a[1:3,1:3])
